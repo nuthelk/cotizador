@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react'
+import React, { useCallback, useRef } from 'react'
 import useCotizador from '../hooks/useCotizador'
 import {MARCAS, PLANES} from '../constants'
 
